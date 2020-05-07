@@ -1,0 +1,22 @@
+h2 {
+	text-align: center;
+	color: darkolivegreen;
+}
+th {
+	color: beige;
+	text-align: center;
+}
+td, h1 {
+	text-align: center;
+}
+.container {
+	text-align: center;
+}
+.add {
+	text-align: center;
+}
+form {
+	margin: 400px;
+	margin-top: -20px;
+	margin-bottom: -0px;
+}
