@@ -1,0 +1,25 @@
+body {
+	background-image: url(../assets/img/foto10.jpg);
+}
+h2 {
+	text-align: center;
+	color: darkolivegreen;
+}
+th {
+	color: darkolivegreen;
+	text-align: center;
+}
+td, h1 {
+	text-align: center;
+}
+.container {
+	text-align: center;
+}
+.add {
+	text-align: center;
+}
+form {
+	margin: 400px;
+	margin-top: -20px;
+	margin-bottom: -0px;
+}
