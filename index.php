@@ -58,7 +58,7 @@
     <div class="section">
       <div class="row" style="font-family: forum;">
         <h3 class="center light grey-text text-darken-3">Praktikum</h3>
-        <a class="waves-effect waves-light-center btn">Repository</a>
+        <a  href="https://github.com/Alsalira/pw2020_193040079/tree/master/praktikum"class="waves-effect waves-light-center btn">Repository</a>
             <div class="collection" style="text-align: center;">
                 <a href="Praktikum/p1_kamis07_193040079" class="collection-item">P1_KAMIS07_193040079</a>
                 <a href="Praktikum/p2_kamis07_193040079" class="collection-item">P2_KAMIS07_193040079</a>
@@ -105,7 +105,7 @@
           <h3><i class="mdi-content-send brown-text"></i></h3>
           <h4>Tugas Besar</h4>
           <p class="center-align light"><b>Username:</b> alsa <b>Password:</b> alsa</p>
-          <a class="waves-effect waves-light btn">Repository</a>
+          <a href="https://github.com/Alsalira/pw2020_193040079/tree/master/tubes" class="waves-effect waves-light btn">Repository</a>
           <div class="collection" style="text-align: center;">
                 <a href="tubes/index.php" class="collection-item">TUGAS BESAR</a>
           </div>
