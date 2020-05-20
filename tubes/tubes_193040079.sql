@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: May 07, 2020 at 05:21 AM
+-- Generation Time: May 20, 2020 at 10:55 AM
 -- Server version: 5.6.24
 -- PHP Version: 5.6.8
 
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `alat_musik` (
   `warna` varchar(100) NOT NULL,
   `stock` int(10) NOT NULL,
   `harga` int(100) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `alat_musik`
@@ -50,7 +50,7 @@ INSERT INTO `alat_musik` (`id`, `foto`, `nama`, `jenis`, `warna`, `stock`, `harg
 (7, 'CORTActionB5PlusASOPN.jpg', 'CORT ARTISAN B5 PLUS AS OPN ELECTRIC BASS', 'Electric Bass', 'light wood', 40, 6000000),
 (8, 'Evansb08g2coated.jpg', 'EVANS B08G2 COATED WHITE HEAD', 'Acoustic Drums', 'black-white', 30, 108000),
 (9, 'Evanstricenterbongo.jpg', 'EVANS EB0709 TRI-CENTER BONGO HEAD', 'Percussion', 'white-gold', 30, 720000),
-(11, 'YamahaDigitalPianoYDP143(1).jpg', 'YAMAHA DIGITAL PIANO YDP 143', 'Digital Pianos', 'black', 3, 9000000);
+(11, 'YamahaPSR-E443.JPG', 'YAMAHA PSR- E443', 'Keyboards', 'black', 3, 5500000);
 
 -- --------------------------------------------------------
 
@@ -95,7 +95,7 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `alat_musik`
 --
 ALTER TABLE `alat_musik`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=12;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=13;
 --
 -- AUTO_INCREMENT for table `user`
 --
